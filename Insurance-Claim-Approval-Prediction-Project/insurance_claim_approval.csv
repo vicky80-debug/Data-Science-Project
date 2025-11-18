@@ -1,0 +1,1001 @@
+Age,Gender,BMI,Smoking,Region,Children,Vehicle_Damage,Previous_Insurance,Annual_Premium,Policy_Sales_Channel,Claim_Approved
+56,Male,36.8,Yes,North,1,No,1,45611.28,Call Center,0
+69,Male,29.1,No,East,2,No,1,52144.8,Call Center,0
+46,Male,28.8,Yes,West,4,Yes,0,21597.37,Agent,0
+32,Female,31.2,No,East,2,No,0,22184.99,Online,0
+60,Male,36.2,No,South,1,No,0,50553.75,Call Center,0
+25,Male,26.0,No,West,2,No,0,42733.08,Call Center,0
+38,Male,33.1,No,East,4,Yes,0,17018.73,Online,0
+56,Female,30.7,No,South,4,Yes,1,43014.61,Agent,1
+36,Female,24.2,No,South,0,Yes,0,28901.3,Call Center,0
+40,Male,37.4,No,North,3,No,0,31592.63,Online,0
+28,Male,35.6,No,North,0,Yes,0,49637.91,Online,0
+28,Male,32.7,No,North,4,No,1,51492.08,Call Center,0
+41,Male,36.8,No,South,1,Yes,0,33016.05,Agent,0
+53,Female,37.1,No,East,1,No,0,57621.88,Call Center,1
+57,Female,33.7,No,North,0,Yes,0,33290.82,Online,0
+41,Female,36.5,Yes,East,4,Yes,1,49732.62,Call Center,1
+20,Female,33.5,No,North,1,No,0,36774.48,Agent,0
+39,Male,33.1,No,West,4,Yes,0,55388.95,Online,0
+19,Male,31.8,Yes,West,1,No,1,55849.26,Agent,0
+41,Male,34.7,No,North,4,Yes,1,18933.76,Call Center,0
+61,Female,21.9,Yes,South,2,Yes,1,57142.2,Call Center,0
+47,Male,37.4,No,North,4,No,0,52149.07,Agent,1
+55,Female,37.2,No,North,4,No,0,50608.98,Call Center,0
+19,Female,19.1,No,South,0,No,1,24041.01,Agent,1
+38,Male,36.3,No,West,2,Yes,0,51230.36,Call Center,1
+50,Male,21.3,No,East,3,No,1,53255.97,Agent,0
+29,Male,25.7,No,North,0,Yes,0,28011.77,Agent,0
+39,Female,34.5,No,South,3,No,0,57851.7,Online,0
+61,Male,22.0,No,North,1,No,0,17243.71,Online,1
+42,Female,36.1,No,South,3,No,0,21745.92,Agent,0
+66,Male,36.4,No,East,4,No,0,39191.15,Call Center,0
+44,Female,29.4,Yes,East,3,No,0,40910.66,Call Center,0
+59,Female,18.6,No,West,0,No,1,44031.75,Call Center,0
+45,Male,24.7,No,South,0,Yes,0,15763.61,Agent,0
+33,Female,31.8,No,South,3,No,0,58216.5,Agent,0
+32,Female,39.6,Yes,West,0,Yes,1,17006.46,Agent,0
+64,Male,32.1,Yes,West,0,No,0,21437.79,Agent,0
+68,Female,24.1,No,South,3,No,0,15630.65,Online,0
+61,Male,32.1,No,West,2,No,1,40508.63,Agent,0
+69,Female,30.1,No,East,2,Yes,0,56952.01,Call Center,0
+20,Male,35.3,No,North,1,Yes,1,44967.62,Online,0
+54,Male,20.8,No,East,0,No,1,52019.59,Call Center,0
+68,Female,34.9,No,West,3,Yes,1,15597.65,Agent,0
+24,Female,30.1,No,South,0,No,0,39390.69,Online,0
+38,Female,39.2,No,South,4,No,0,35680.33,Agent,0
+26,Female,25.9,No,East,0,Yes,0,37453.56,Online,0
+56,Female,32.1,Yes,South,0,Yes,0,18249.59,Call Center,0
+35,Male,38.5,No,West,2,Yes,1,45799.59,Agent,0
+21,Female,20.7,No,East,3,Yes,0,37644.92,Agent,1
+42,Male,38.7,No,South,0,No,0,49431.7,Online,1
+31,Male,33.3,No,North,2,Yes,1,36838.08,Online,1
+67,Female,20.0,No,North,1,Yes,0,21722.17,Agent,0
+26,Male,25.0,No,West,2,No,0,44171.56,Online,0
+43,Male,33.7,No,South,2,Yes,0,22757.39,Agent,0
+19,Male,19.9,No,West,2,Yes,1,54257.76,Online,0
+37,Male,31.0,No,East,0,Yes,0,42590.23,Call Center,0
+45,Female,25.9,No,North,0,Yes,1,22074.17,Online,0
+64,Male,31.8,No,East,1,No,0,58305.21,Call Center,1
+24,Female,19.5,Yes,South,4,No,1,38326.45,Online,0
+61,Female,37.2,No,West,4,Yes,1,18280.43,Online,0
+25,Male,39.4,No,West,4,Yes,0,43207.48,Agent,0
+64,Female,39.3,No,West,1,No,0,26393.95,Online,0
+52,Female,34.6,No,East,4,Yes,0,51166.21,Online,0
+31,Female,21.3,No,North,4,Yes,1,51801.99,Call Center,1
+34,Male,34.8,No,East,2,Yes,0,59052.63,Online,0
+53,Female,19.0,Yes,East,0,Yes,0,37584.13,Agent,1
+67,Female,19.0,No,South,0,Yes,0,35473.06,Call Center,0
+57,Female,25.5,Yes,South,2,Yes,0,48906.4,Agent,1
+21,Male,29.0,No,South,2,Yes,0,20961.18,Agent,0
+19,Female,35.1,No,North,2,Yes,0,39611.2,Agent,0
+23,Male,33.2,No,North,0,Yes,0,39581.14,Agent,0
+59,Male,28.1,No,South,4,No,1,19026.29,Call Center,0
+21,Male,24.4,No,South,2,No,0,33809.28,Online,1
+46,Male,39.9,No,North,1,No,0,53397.82,Agent,0
+35,Male,27.7,No,West,2,Yes,1,53526.91,Call Center,0
+43,Male,28.2,No,North,3,Yes,1,19465.69,Agent,1
+61,Female,22.0,Yes,North,2,No,1,19082.44,Online,0
+51,Male,35.6,No,North,0,Yes,0,26821.3,Call Center,0
+27,Female,33.4,No,South,2,No,0,54364.47,Call Center,0
+53,Female,23.2,No,West,3,Yes,0,20800.62,Online,0
+31,Male,20.3,No,North,1,No,1,47399.86,Call Center,1
+48,Female,33.1,No,South,4,No,0,19552.45,Online,0
+65,Female,32.6,No,East,2,No,0,43041.2,Call Center,0
+32,Female,24.4,Yes,East,3,Yes,0,31023.03,Call Center,0
+25,Female,38.9,No,North,3,No,0,50501.13,Online,1
+31,Male,21.7,No,East,1,Yes,0,25516.07,Online,0
+40,Female,27.8,Yes,West,0,Yes,0,43764.08,Call Center,1
+57,Male,38.8,No,East,2,Yes,0,25605.71,Call Center,0
+38,Female,27.5,Yes,East,3,Yes,0,47114.71,Online,0
+33,Female,32.2,No,West,1,Yes,1,54315.51,Online,1
+62,Male,27.0,No,North,4,Yes,1,20706.08,Call Center,0
+35,Female,24.4,No,North,3,Yes,1,53996.81,Call Center,0
+64,Female,39.7,No,West,1,No,1,41710.89,Call Center,0
+41,Female,27.3,No,West,0,No,0,20719.97,Online,0
+43,Male,37.7,No,West,0,No,0,34239.38,Call Center,0
+42,Female,23.4,Yes,East,3,Yes,0,22238.71,Agent,1
+62,Male,23.1,No,West,3,Yes,0,46515.65,Online,1
+58,Female,19.2,No,South,2,Yes,0,49149.07,Call Center,0
+46,Male,32.5,No,East,1,Yes,0,19760.84,Online,0
+32,Male,26.4,No,North,3,No,0,37776.29,Agent,0
+62,Female,37.1,No,North,2,Yes,0,51658.13,Online,0
+18,Female,28.7,Yes,North,2,No,0,57127.34,Call Center,0
+42,Male,39.3,Yes,East,3,Yes,0,38108.3,Agent,1
+24,Male,22.5,No,South,0,No,1,57762.57,Agent,0
+26,Female,37.2,No,West,1,Yes,0,39106.0,Call Center,1
+41,Male,35.2,Yes,West,1,No,0,32738.57,Call Center,0
+18,Female,35.1,No,North,0,Yes,0,53169.14,Call Center,0
+61,Female,36.7,No,North,3,No,0,37184.22,Online,0
+25,Female,34.9,No,East,1,Yes,0,36235.61,Online,0
+41,Female,32.0,No,South,3,No,0,37064.06,Online,0
+28,Male,21.3,Yes,West,3,No,0,53105.33,Call Center,1
+68,Female,19.2,No,East,2,Yes,0,52437.37,Call Center,0
+34,Male,38.3,No,West,0,No,1,33158.4,Online,1
+25,Female,31.8,Yes,North,3,Yes,1,29998.49,Agent,0
+52,Male,35.6,Yes,West,4,Yes,0,37136.76,Online,1
+52,Female,28.9,No,South,0,Yes,0,40774.76,Agent,0
+50,Male,21.0,No,South,1,No,1,25725.17,Call Center,1
+22,Male,21.2,No,North,2,No,0,50727.98,Call Center,0
+59,Female,33.2,No,South,1,Yes,0,36891.72,Online,0
+56,Female,27.8,No,South,1,Yes,0,30032.05,Online,1
+58,Female,22.8,No,East,0,No,1,19806.94,Call Center,0
+45,Female,29.1,No,West,1,No,0,25748.03,Online,0
+24,Male,19.9,No,North,3,No,0,57717.65,Call Center,0
+26,Female,31.0,No,North,1,Yes,1,28729.49,Call Center,1
+25,Male,24.3,No,North,2,Yes,0,22598.67,Agent,0
+29,Male,35.6,No,North,2,Yes,0,35730.28,Online,0
+51,Female,25.2,No,North,4,Yes,1,28818.95,Call Center,0
+50,Male,28.3,No,South,2,Yes,0,16582.17,Online,0
+65,Male,18.7,No,East,1,No,0,29541.53,Agent,1
+40,Male,20.1,No,North,2,Yes,0,39484.89,Agent,0
+41,Male,26.9,No,East,0,No,0,39827.06,Online,0
+54,Female,28.8,No,East,2,No,0,31045.15,Online,1
+52,Female,31.4,No,South,3,Yes,0,35128.62,Call Center,0
+61,Female,24.8,No,North,0,No,0,58448.31,Agent,0
+57,Female,33.4,Yes,South,4,Yes,1,31980.68,Agent,0
+39,Male,37.0,No,North,3,No,0,26620.21,Agent,0
+44,Male,35.3,No,South,1,Yes,0,25956.02,Online,0
+52,Female,19.4,No,East,1,Yes,0,35599.41,Call Center,0
+18,Female,28.8,No,North,1,No,1,49178.41,Online,0
+52,Female,20.8,No,West,3,Yes,0,24269.47,Online,0
+54,Male,23.7,No,East,3,No,0,46918.33,Online,0
+64,Female,39.7,No,West,3,Yes,0,15951.74,Call Center,0
+31,Female,21.6,No,East,0,Yes,0,33851.98,Online,0
+20,Female,29.2,Yes,South,0,Yes,0,49913.93,Agent,0
+18,Male,31.8,No,North,1,No,1,30242.98,Agent,0
+22,Male,33.6,No,East,2,No,0,40368.17,Agent,0
+43,Male,30.5,No,South,1,Yes,0,24224.07,Call Center,0
+31,Male,18.7,Yes,North,4,No,0,48389.79,Online,0
+56,Male,25.5,Yes,North,0,Yes,1,17352.56,Call Center,0
+44,Male,29.6,No,East,3,No,0,53364.42,Online,0
+26,Male,20.4,No,North,0,No,0,23918.84,Agent,0
+32,Male,26.0,No,East,3,Yes,0,54347.91,Online,0
+32,Female,19.2,No,North,4,Yes,0,30863.82,Online,1
+43,Female,20.2,Yes,West,4,Yes,0,47520.76,Online,1
+59,Male,27.0,No,South,0,Yes,0,29365.14,Call Center,0
+30,Male,21.4,No,West,3,Yes,0,55766.03,Online,0
+68,Female,30.7,No,East,4,No,0,20698.67,Online,0
+49,Male,33.3,No,West,1,No,0,23033.39,Online,0
+56,Male,35.7,Yes,East,1,Yes,0,37186.36,Call Center,0
+66,Male,22.8,Yes,North,3,Yes,0,18687.23,Call Center,0
+69,Female,22.1,No,North,0,Yes,1,23819.11,Call Center,0
+49,Female,20.7,Yes,East,4,No,1,57469.49,Online,0
+21,Female,32.2,Yes,West,0,Yes,1,58942.03,Agent,0
+47,Female,33.7,No,North,1,Yes,1,31931.67,Agent,0
+54,Female,19.2,No,South,4,No,0,56547.87,Agent,0
+40,Male,38.6,No,North,0,No,1,39517.11,Online,0
+56,Female,19.6,No,South,2,No,0,27138.41,Agent,0
+62,Male,30.1,No,West,3,No,0,46607.94,Agent,0
+32,Male,33.7,No,South,3,Yes,0,44650.58,Agent,0
+60,Female,37.2,No,South,2,No,0,59510.64,Online,0
+46,Female,33.9,Yes,South,1,No,1,26927.13,Agent,0
+53,Male,35.7,No,South,4,Yes,0,45242.68,Agent,0
+30,Male,25.8,Yes,North,3,Yes,0,17341.07,Online,1
+49,Male,36.0,No,South,2,Yes,1,20114.07,Call Center,1
+24,Female,20.2,No,North,2,No,0,15176.33,Agent,0
+68,Female,37.7,No,South,1,Yes,0,59975.73,Call Center,0
+39,Female,30.3,No,East,1,No,1,51102.32,Agent,0
+45,Female,36.1,No,West,0,No,0,50402.54,Online,1
+19,Female,28.2,No,South,3,No,0,37937.67,Call Center,0
+59,Male,32.3,Yes,East,0,Yes,0,28503.02,Call Center,1
+62,Female,29.8,No,South,2,No,0,21806.89,Call Center,0
+23,Male,34.2,No,South,4,Yes,1,27810.36,Call Center,0
+45,Male,20.3,No,South,4,Yes,0,31918.7,Agent,1
+45,Male,19.8,No,East,1,Yes,0,49033.95,Agent,0
+61,Female,23.8,No,West,4,No,0,39284.78,Call Center,0
+61,Female,21.9,No,East,4,No,0,18486.76,Agent,0
+37,Female,37.2,No,West,4,No,1,15811.31,Call Center,0
+47,Male,23.2,No,South,2,Yes,0,19604.95,Call Center,0
+28,Male,39.5,No,North,4,No,0,33472.44,Online,0
+45,Male,25.7,No,South,4,No,0,56993.68,Call Center,0
+42,Male,22.4,No,West,4,No,0,43683.11,Agent,0
+56,Male,35.5,Yes,East,0,No,1,51082.17,Call Center,1
+50,Male,32.7,No,South,2,No,0,35986.86,Online,0
+18,Female,29.2,Yes,East,1,Yes,0,31274.97,Agent,0
+44,Female,30.4,No,East,0,Yes,0,19878.02,Online,0
+69,Female,34.0,Yes,East,3,Yes,1,54416.99,Online,0
+30,Female,23.4,No,South,2,Yes,0,50242.2,Call Center,0
+58,Male,39.9,No,East,2,No,1,22565.31,Online,1
+20,Male,39.5,Yes,East,3,Yes,0,38051.73,Online,0
+56,Female,32.5,No,South,3,No,1,36931.87,Agent,0
+23,Male,22.8,No,East,3,Yes,0,43129.12,Online,0
+25,Female,33.1,No,South,1,Yes,0,57578.41,Call Center,0
+44,Female,20.1,Yes,West,4,Yes,0,41089.71,Call Center,1
+26,Female,19.2,No,West,2,No,0,39309.78,Call Center,0
+54,Male,24.0,No,West,4,No,1,17264.53,Online,0
+50,Female,28.4,Yes,East,4,Yes,1,17830.84,Agent,0
+68,Female,37.2,Yes,North,3,No,0,23430.61,Call Center,0
+59,Female,34.1,No,North,1,Yes,0,16461.18,Online,0
+61,Male,34.5,No,East,0,Yes,0,48450.88,Call Center,0
+41,Male,27.6,No,North,1,Yes,1,47549.86,Call Center,0
+32,Female,25.9,No,South,4,No,0,21122.53,Agent,0
+49,Male,26.5,No,North,1,Yes,0,52623.55,Call Center,0
+49,Male,39.7,No,East,3,Yes,0,21965.37,Agent,1
+41,Male,19.4,Yes,East,0,Yes,0,28552.9,Online,1
+58,Male,37.1,No,South,3,No,0,26203.96,Call Center,0
+69,Male,30.9,No,West,0,Yes,0,31753.82,Online,0
+66,Male,27.9,No,East,4,No,0,26459.87,Online,0
+66,Male,34.1,No,South,0,Yes,1,37002.79,Online,0
+69,Male,29.0,No,North,0,No,0,33333.35,Call Center,0
+29,Male,37.3,Yes,North,0,Yes,0,59395.63,Agent,0
+56,Male,37.9,No,South,1,Yes,0,17516.69,Call Center,1
+19,Female,27.6,Yes,South,1,No,1,21398.16,Online,1
+20,Female,24.5,No,East,4,No,0,17377.17,Agent,0
+66,Male,31.2,Yes,North,0,Yes,0,43162.85,Online,0
+54,Female,38.1,Yes,South,2,No,0,17452.92,Agent,0
+66,Female,23.0,No,North,4,Yes,0,52639.79,Call Center,0
+34,Male,31.9,No,South,0,Yes,0,38037.24,Agent,0
+66,Male,32.1,No,North,0,Yes,1,38715.34,Call Center,0
+19,Male,34.3,No,West,1,No,1,40271.75,Online,1
+19,Female,21.3,Yes,East,4,Yes,0,22686.62,Agent,0
+45,Female,33.9,Yes,North,0,No,0,23896.06,Online,0
+40,Male,38.0,No,West,0,Yes,1,29346.78,Agent,0
+54,Male,22.4,No,North,4,No,0,41707.34,Call Center,0
+49,Male,23.6,No,North,2,No,1,24455.3,Agent,0
+50,Female,39.4,No,West,4,Yes,0,20234.93,Agent,1
+18,Female,22.4,No,North,4,No,1,58655.26,Call Center,0
+36,Female,36.9,No,North,2,Yes,1,15989.18,Call Center,0
+19,Female,29.1,No,East,4,Yes,1,51121.38,Call Center,0
+61,Male,23.8,No,West,0,Yes,0,50461.58,Agent,0
+43,Male,37.2,No,West,4,Yes,0,28374.64,Online,1
+49,Male,28.1,No,South,2,Yes,1,21103.2,Agent,0
+23,Male,29.6,No,North,3,No,0,21553.29,Agent,1
+49,Female,26.2,No,East,4,Yes,0,46384.42,Online,0
+21,Female,31.2,No,North,1,No,1,43926.3,Call Center,0
+28,Male,22.0,No,North,0,No,1,50223.56,Agent,0
+34,Male,26.9,No,South,0,Yes,1,57186.65,Online,0
+55,Female,39.3,No,North,1,No,0,46136.73,Call Center,0
+41,Male,24.0,No,East,1,Yes,1,22013.32,Call Center,1
+22,Female,32.6,No,East,4,No,1,25954.92,Agent,0
+69,Male,25.5,No,South,1,No,0,52898.72,Call Center,0
+51,Male,35.1,No,North,3,No,0,24418.77,Call Center,0
+23,Male,21.3,No,East,2,Yes,0,18263.5,Online,0
+39,Male,39.4,No,North,1,No,0,46647.6,Online,0
+28,Male,28.3,No,North,1,Yes,1,33113.69,Call Center,0
+65,Male,23.6,No,North,3,No,0,56401.8,Online,0
+33,Male,20.1,Yes,South,0,No,1,44261.48,Call Center,0
+50,Female,22.1,No,North,0,No,1,19068.85,Agent,0
+26,Female,29.7,Yes,East,4,No,0,57653.55,Online,0
+23,Female,25.7,No,North,3,Yes,1,26635.08,Call Center,0
+33,Female,36.3,No,East,2,Yes,0,30174.56,Call Center,0
+46,Female,27.8,Yes,North,2,No,1,33101.72,Online,1
+20,Male,23.8,Yes,East,3,No,0,17305.09,Online,0
+37,Male,31.8,No,East,2,Yes,1,37343.19,Agent,0
+53,Female,33.7,No,North,0,Yes,0,20549.33,Call Center,0
+36,Male,22.1,No,North,2,Yes,0,33043.66,Agent,0
+43,Female,22.1,Yes,East,2,Yes,1,30781.94,Agent,1
+20,Female,19.3,No,West,3,No,0,49777.8,Agent,0
+36,Male,34.3,No,South,3,No,0,51142.67,Online,1
+37,Male,32.8,No,West,2,Yes,0,21903.58,Agent,1
+49,Male,28.7,No,West,1,Yes,1,31494.8,Online,0
+24,Female,36.6,No,North,3,Yes,0,31800.89,Online,0
+69,Male,35.8,No,South,4,Yes,0,21813.47,Agent,0
+58,Female,31.1,No,West,4,Yes,0,50930.41,Agent,0
+50,Female,37.2,No,North,0,Yes,0,46825.27,Call Center,0
+57,Female,22.9,No,West,2,No,0,23567.18,Agent,0
+56,Male,20.9,Yes,West,1,No,0,31502.49,Call Center,0
+35,Male,24.3,No,North,0,No,0,19761.23,Agent,0
+57,Female,19.7,Yes,North,2,Yes,0,43269.3,Agent,0
+18,Male,29.9,No,North,3,Yes,0,20461.74,Agent,1
+28,Male,38.6,No,South,4,Yes,1,59367.04,Agent,0
+45,Male,19.3,No,West,1,No,0,50130.69,Call Center,1
+42,Female,21.1,Yes,North,4,Yes,0,32560.73,Call Center,0
+67,Female,28.2,Yes,East,3,Yes,0,41035.38,Agent,0
+40,Male,38.6,No,West,2,No,0,56010.38,Agent,0
+48,Female,25.3,Yes,East,3,Yes,1,39934.47,Call Center,0
+47,Male,29.4,Yes,South,3,No,0,22852.43,Online,0
+59,Male,19.4,No,North,4,No,0,32041.65,Online,0
+52,Male,21.7,No,East,1,Yes,0,52941.52,Online,1
+24,Male,39.7,No,South,3,No,0,43989.59,Call Center,0
+33,Female,39.3,No,North,4,Yes,0,44282.6,Call Center,0
+43,Female,18.6,Yes,East,1,No,0,54006.97,Online,1
+65,Female,39.0,No,East,2,Yes,0,55228.79,Online,0
+69,Male,32.2,No,South,2,No,1,56390.67,Agent,0
+66,Male,37.2,No,North,0,Yes,0,19268.21,Call Center,0
+19,Male,28.3,No,North,4,No,0,39485.67,Call Center,1
+18,Female,29.6,No,East,1,No,1,48322.93,Online,0
+65,Male,29.0,No,East,3,No,1,49061.71,Online,0
+29,Female,32.8,No,East,2,Yes,0,42302.23,Call Center,0
+22,Female,21.5,No,North,1,Yes,1,22505.43,Agent,1
+54,Female,19.1,No,South,4,No,1,50883.92,Online,0
+49,Female,25.1,No,South,0,Yes,0,47405.01,Call Center,1
+26,Female,33.7,No,North,2,No,0,18876.11,Call Center,0
+58,Female,22.8,No,West,1,Yes,0,35871.44,Agent,1
+52,Male,33.0,Yes,South,1,No,1,22828.98,Agent,0
+36,Male,39.4,No,East,1,Yes,0,30186.47,Online,0
+65,Female,20.5,No,West,4,No,0,15813.65,Online,1
+33,Female,33.0,No,West,4,No,1,33014.84,Online,0
+20,Male,28.0,No,South,4,No,0,39744.46,Call Center,0
+37,Female,37.2,No,West,3,No,0,42881.22,Online,0
+41,Female,22.3,No,West,1,Yes,0,44857.07,Call Center,0
+50,Male,33.4,No,South,2,No,0,52633.11,Online,0
+41,Female,36.5,Yes,South,4,Yes,1,24695.83,Agent,0
+69,Female,38.8,Yes,West,4,Yes,0,20421.68,Agent,0
+28,Female,33.2,No,East,1,No,1,53319.17,Call Center,0
+66,Male,29.2,No,North,4,Yes,0,22047.58,Agent,0
+25,Male,31.8,No,West,3,Yes,0,58864.2,Call Center,0
+53,Male,37.2,No,West,3,Yes,1,52914.22,Call Center,0
+55,Female,30.8,No,East,4,No,0,37539.45,Agent,0
+57,Female,19.2,No,West,1,Yes,0,59163.96,Call Center,0
+37,Male,38.5,Yes,West,1,Yes,0,19381.95,Agent,1
+52,Female,33.3,No,North,1,No,1,28637.96,Online,0
+65,Female,33.0,No,North,0,No,0,43720.1,Online,1
+42,Female,23.1,No,North,4,Yes,0,30750.31,Agent,1
+52,Female,32.7,No,South,1,No,0,56776.76,Agent,1
+42,Female,27.0,No,South,3,Yes,0,17953.17,Agent,0
+46,Male,32.5,No,North,2,Yes,1,39723.53,Agent,1
+35,Female,20.8,No,North,2,Yes,0,41588.98,Online,1
+63,Male,32.6,No,South,1,No,0,44372.77,Call Center,0
+35,Female,40.0,No,East,2,Yes,0,26504.98,Call Center,0
+19,Male,19.5,No,West,2,No,0,31405.49,Online,0
+52,Female,39.5,No,West,0,No,1,52965.62,Call Center,0
+33,Male,27.2,Yes,North,3,Yes,0,23772.42,Online,0
+58,Female,37.2,No,East,3,No,1,52209.05,Call Center,0
+53,Male,35.3,No,South,0,No,0,40319.49,Agent,0
+50,Female,30.7,No,North,0,No,0,49298.44,Agent,0
+21,Male,34.4,No,East,2,No,1,47112.33,Agent,0
+50,Female,37.4,No,East,4,No,0,24338.02,Online,0
+31,Male,27.2,No,East,2,Yes,1,40596.57,Online,1
+38,Male,25.5,No,South,0,No,1,54047.54,Call Center,0
+65,Female,32.9,No,South,3,Yes,0,34445.23,Call Center,0
+37,Female,35.9,Yes,West,2,Yes,0,58496.58,Call Center,0
+25,Male,34.9,No,West,4,Yes,1,35349.68,Online,0
+24,Female,35.7,Yes,East,2,Yes,0,21425.35,Call Center,0
+20,Male,27.9,No,East,1,Yes,0,32524.56,Agent,1
+34,Male,36.1,No,South,2,Yes,0,57826.61,Call Center,0
+50,Male,21.1,No,West,0,No,0,29387.44,Agent,1
+65,Female,30.2,No,East,3,No,1,54064.42,Online,0
+29,Male,18.6,Yes,West,3,No,0,54656.28,Agent,0
+68,Male,25.5,No,West,0,Yes,0,30758.39,Agent,0
+39,Female,26.4,No,East,1,No,0,18746.59,Agent,1
+39,Female,27.0,No,South,0,No,0,47605.11,Online,0
+63,Female,33.5,No,East,2,No,0,29018.05,Online,0
+47,Female,26.9,No,East,0,Yes,1,50231.56,Online,1
+55,Male,28.1,No,West,0,No,0,34919.47,Online,0
+55,Male,23.6,No,East,1,Yes,1,36837.0,Call Center,0
+62,Male,26.5,No,South,2,No,1,50005.92,Online,1
+68,Male,23.4,No,East,4,Yes,0,32206.35,Agent,0
+25,Female,20.1,No,South,4,Yes,0,34940.73,Online,0
+44,Male,31.5,No,South,3,Yes,0,31928.57,Call Center,0
+44,Male,32.9,No,West,0,No,0,31530.32,Call Center,0
+51,Female,31.8,No,North,3,No,1,38667.6,Call Center,0
+38,Male,28.5,No,North,1,Yes,1,51395.98,Agent,0
+47,Male,26.7,No,West,4,No,0,31279.57,Online,0
+50,Male,37.1,No,East,0,Yes,0,38591.46,Online,0
+45,Male,29.7,No,West,1,Yes,1,45182.73,Online,1
+64,Male,28.8,No,South,1,No,1,27124.78,Agent,1
+50,Male,19.1,No,North,0,No,0,27488.53,Agent,0
+22,Female,25.8,No,West,1,No,0,57003.59,Call Center,0
+65,Female,26.7,No,East,0,Yes,0,47559.06,Call Center,1
+36,Male,27.1,Yes,West,0,Yes,1,40973.4,Online,0
+21,Male,31.0,No,North,2,No,0,44147.4,Agent,0
+52,Female,30.0,No,West,3,Yes,0,16318.47,Agent,1
+66,Male,31.6,No,West,1,No,0,42814.63,Online,1
+34,Male,34.9,No,North,1,Yes,0,37927.9,Online,0
+61,Male,36.0,Yes,South,2,No,0,39558.74,Call Center,0
+45,Female,33.9,No,South,2,No,1,31174.07,Call Center,0
+47,Male,39.0,No,North,2,Yes,0,18666.33,Call Center,0
+46,Female,18.9,No,West,4,No,0,23700.27,Online,0
+63,Male,22.7,No,North,4,No,0,57783.51,Online,0
+23,Female,18.7,No,South,4,Yes,0,33391.48,Call Center,0
+52,Female,32.4,Yes,East,0,No,0,36000.74,Call Center,1
+58,Male,37.8,No,West,1,Yes,0,17371.94,Agent,1
+54,Female,23.7,No,South,3,No,0,16690.48,Agent,0
+41,Male,38.4,No,West,0,Yes,0,47273.17,Call Center,1
+46,Female,19.8,No,North,1,No,0,39214.26,Call Center,1
+66,Male,38.6,Yes,East,1,No,0,37891.77,Agent,0
+63,Male,26.1,No,North,2,No,1,25940.6,Call Center,0
+48,Female,20.7,No,East,2,No,1,48513.78,Agent,0
+52,Male,28.9,No,West,0,Yes,0,22570.65,Agent,0
+50,Male,24.0,No,West,2,Yes,0,23547.06,Agent,0
+69,Female,24.6,No,North,1,Yes,1,35732.05,Online,0
+38,Male,25.1,No,East,2,Yes,0,27882.59,Online,0
+49,Male,35.8,Yes,East,4,Yes,1,26135.83,Call Center,0
+40,Female,30.1,No,West,2,Yes,1,44035.69,Agent,1
+50,Female,25.2,No,North,1,Yes,0,44293.73,Online,0
+20,Male,31.6,No,East,0,No,0,52103.27,Call Center,0
+35,Male,33.9,No,West,3,No,1,33796.89,Call Center,0
+42,Female,24.4,Yes,South,2,No,0,18288.83,Call Center,0
+59,Female,27.4,No,North,1,No,0,27314.99,Call Center,1
+48,Male,21.1,No,South,3,Yes,0,59100.25,Call Center,0
+20,Female,22.4,No,North,3,Yes,0,41831.64,Agent,0
+57,Male,33.1,Yes,West,4,Yes,0,46938.17,Call Center,1
+63,Male,22.4,No,East,3,No,1,15331.1,Agent,0
+41,Male,29.8,No,East,1,Yes,1,38319.26,Online,0
+67,Male,33.7,No,East,1,No,0,16688.79,Call Center,0
+49,Male,20.8,No,North,2,Yes,0,40615.36,Online,1
+64,Female,30.7,No,West,2,Yes,0,56434.69,Agent,0
+39,Female,24.0,No,South,2,Yes,0,58578.86,Agent,0
+40,Female,39.2,Yes,West,3,Yes,0,39324.87,Online,0
+19,Female,28.9,No,South,3,No,1,35619.22,Call Center,0
+44,Male,35.8,Yes,North,4,No,1,57525.77,Call Center,1
+59,Male,30.3,No,North,2,Yes,0,45312.44,Online,0
+19,Male,19.4,No,South,0,No,0,17920.47,Online,0
+43,Male,32.1,Yes,South,4,Yes,0,35957.65,Online,0
+34,Female,39.0,No,South,0,Yes,0,25811.03,Call Center,1
+57,Male,31.4,Yes,West,3,Yes,0,36141.19,Call Center,0
+50,Male,36.1,No,South,4,Yes,0,35495.95,Call Center,1
+26,Female,37.5,No,North,4,No,1,41196.52,Online,1
+60,Female,23.4,Yes,North,1,Yes,0,31054.67,Call Center,0
+65,Female,23.1,No,East,3,Yes,0,22392.17,Agent,0
+56,Female,31.6,No,South,3,No,1,37667.37,Online,0
+46,Male,27.3,No,West,4,Yes,0,52359.13,Call Center,1
+59,Male,36.6,Yes,West,3,No,0,44880.55,Online,0
+43,Female,37.9,No,West,4,Yes,0,30226.55,Agent,0
+52,Male,26.1,No,East,1,Yes,0,57098.54,Agent,1
+67,Male,23.6,No,North,4,Yes,1,56049.34,Online,0
+42,Male,35.3,Yes,West,3,Yes,0,24420.68,Online,0
+41,Female,24.4,Yes,North,3,Yes,1,16773.79,Agent,0
+30,Male,36.2,No,East,4,Yes,0,48358.89,Online,0
+24,Female,27.6,No,South,4,No,0,52242.46,Agent,1
+53,Male,32.9,No,South,4,Yes,1,58553.91,Agent,0
+62,Male,20.6,No,South,2,No,0,55042.64,Call Center,0
+37,Male,31.9,No,West,3,No,0,42024.06,Online,1
+18,Female,28.2,No,South,3,Yes,0,38852.36,Online,0
+25,Male,31.1,No,West,2,No,0,16252.85,Call Center,1
+63,Female,22.1,No,East,4,Yes,0,26099.54,Agent,1
+33,Female,34.3,No,East,1,No,0,35682.66,Online,0
+31,Female,37.1,No,West,4,Yes,0,43282.68,Call Center,0
+29,Male,23.2,No,North,4,No,0,40076.33,Call Center,0
+68,Male,20.6,No,South,2,No,1,48418.62,Online,0
+40,Male,19.0,No,South,3,Yes,0,27589.51,Call Center,0
+32,Male,32.3,No,South,4,No,1,40422.87,Agent,0
+45,Female,31.6,No,West,3,Yes,0,18966.4,Call Center,0
+51,Female,30.3,No,East,0,Yes,0,33614.95,Agent,1
+19,Female,23.5,Yes,South,3,Yes,1,48757.24,Agent,0
+49,Male,26.9,No,East,1,Yes,0,46203.04,Online,0
+40,Female,31.3,No,South,1,Yes,1,59578.92,Call Center,0
+39,Male,29.2,No,South,4,No,0,27505.1,Agent,1
+68,Female,39.7,No,West,3,No,0,37418.52,Agent,0
+42,Male,21.4,No,North,4,No,0,29828.87,Call Center,1
+39,Male,33.4,Yes,West,2,Yes,0,34827.14,Agent,0
+39,Female,27.2,No,South,1,No,1,53562.76,Call Center,0
+66,Female,27.7,No,South,4,No,0,45789.41,Online,0
+69,Female,33.9,No,North,2,No,1,54709.85,Agent,0
+59,Female,33.4,No,East,4,No,1,24158.0,Agent,0
+23,Male,39.8,No,East,3,No,0,54301.25,Call Center,0
+32,Female,21.3,No,South,3,Yes,0,17689.3,Call Center,0
+60,Female,20.7,No,East,3,Yes,1,54986.97,Call Center,1
+54,Female,34.1,Yes,South,3,No,1,29808.32,Call Center,0
+50,Male,30.9,No,North,0,Yes,0,29156.44,Agent,1
+25,Male,24.4,No,North,2,Yes,0,38043.99,Online,0
+61,Female,20.2,No,South,2,No,0,57331.06,Online,0
+61,Male,20.3,No,North,3,No,0,17150.16,Online,0
+22,Female,37.7,Yes,West,0,Yes,0,30850.39,Online,0
+56,Male,22.6,No,West,3,No,1,53545.74,Call Center,0
+21,Male,25.5,Yes,North,0,Yes,0,32822.45,Agent,0
+23,Male,23.4,No,South,3,Yes,0,23962.06,Agent,0
+62,Male,26.1,No,South,1,No,0,34115.74,Agent,0
+49,Female,20.0,Yes,North,1,Yes,0,32349.86,Call Center,0
+69,Female,29.7,No,East,4,Yes,0,56193.73,Agent,1
+47,Female,20.0,Yes,West,3,Yes,0,49287.05,Call Center,0
+64,Male,35.7,No,East,2,No,0,37730.2,Agent,0
+52,Female,23.5,No,South,4,No,0,59476.68,Online,0
+57,Female,30.1,Yes,South,1,No,0,35937.49,Call Center,0
+69,Female,37.4,No,East,3,No,1,17620.7,Agent,0
+33,Male,32.5,Yes,North,4,Yes,0,26802.34,Online,0
+30,Male,30.0,No,East,3,No,0,34623.17,Online,0
+67,Male,25.5,No,East,1,No,0,22060.62,Online,0
+59,Female,25.7,No,West,4,No,1,57640.43,Call Center,0
+47,Female,32.9,Yes,West,1,No,0,49508.2,Call Center,0
+36,Female,39.9,No,East,0,Yes,0,27072.92,Agent,0
+34,Male,32.7,No,East,1,Yes,1,41586.2,Online,1
+36,Male,30.5,No,South,3,Yes,0,47465.21,Agent,0
+45,Female,34.2,No,West,2,No,0,57357.55,Agent,0
+43,Male,28.5,No,West,1,No,0,54673.59,Online,1
+54,Male,19.8,No,South,2,Yes,0,38183.65,Agent,1
+43,Male,30.6,No,North,0,No,0,49859.37,Call Center,0
+40,Male,39.1,No,West,4,No,1,40296.51,Agent,0
+26,Female,22.3,No,West,4,Yes,0,39871.68,Online,1
+29,Male,33.3,No,North,2,Yes,1,20163.39,Call Center,0
+18,Male,22.8,Yes,West,4,No,0,20676.19,Call Center,1
+18,Male,30.0,No,West,1,No,1,38829.01,Agent,0
+64,Male,20.6,No,North,2,No,0,27098.77,Agent,0
+51,Female,28.2,No,North,3,Yes,0,15946.66,Call Center,0
+49,Female,34.8,No,East,1,Yes,0,47527.76,Agent,0
+65,Male,26.0,No,South,1,Yes,1,16461.9,Online,1
+42,Male,32.8,Yes,South,1,Yes,0,41787.46,Agent,1
+57,Male,35.6,Yes,North,3,No,0,39263.72,Agent,0
+62,Male,38.4,No,North,0,Yes,0,58596.66,Call Center,0
+18,Male,23.5,No,West,4,Yes,0,36789.59,Agent,1
+33,Male,27.1,No,East,2,No,0,17862.06,Agent,0
+56,Female,21.8,No,East,0,No,0,39825.96,Agent,0
+22,Male,39.8,No,North,2,No,0,52849.33,Online,0
+39,Female,38.4,No,West,4,Yes,0,59858.22,Agent,0
+46,Female,30.1,No,West,3,No,0,34365.44,Online,1
+20,Male,36.6,Yes,South,1,No,0,29413.44,Online,0
+29,Female,29.7,No,South,1,Yes,1,55799.4,Online,0
+43,Female,31.9,No,West,3,Yes,0,23605.9,Online,1
+33,Female,20.4,Yes,South,0,No,0,42694.3,Call Center,0
+68,Female,34.7,No,North,0,Yes,0,33257.15,Online,0
+54,Female,21.2,No,West,2,No,1,16848.71,Agent,0
+39,Female,36.3,No,South,3,No,1,30627.98,Online,0
+46,Male,35.3,No,East,0,Yes,1,26935.28,Agent,0
+31,Female,33.7,No,West,3,No,0,45874.1,Online,0
+45,Female,19.3,No,West,4,Yes,0,57695.57,Call Center,0
+22,Female,25.0,No,East,1,Yes,0,27062.12,Online,0
+64,Male,24.2,No,North,1,Yes,0,51515.97,Online,0
+66,Female,26.2,Yes,East,1,No,0,17491.19,Call Center,0
+47,Male,20.4,No,West,3,Yes,1,39215.45,Online,0
+63,Female,38.6,No,North,3,Yes,1,18174.75,Agent,0
+69,Male,30.4,No,South,2,No,1,57031.48,Online,0
+22,Male,25.1,No,South,1,No,0,49485.81,Online,0
+29,Female,27.0,No,South,2,No,0,44607.75,Online,1
+33,Female,28.1,No,West,1,No,0,52075.34,Call Center,1
+43,Male,31.4,No,East,2,Yes,0,44138.39,Online,0
+43,Female,29.6,No,North,2,Yes,1,58602.5,Online,1
+65,Male,38.3,No,South,4,Yes,0,47128.11,Agent,0
+38,Male,29.2,No,North,2,No,0,56609.64,Online,1
+56,Male,39.8,No,West,3,No,0,38270.94,Online,0
+53,Male,36.8,No,South,2,Yes,0,20267.9,Online,0
+50,Male,23.0,Yes,West,1,No,1,38768.0,Online,0
+47,Female,38.5,No,East,2,No,0,20709.28,Agent,0
+54,Male,21.0,No,West,0,Yes,1,41662.21,Agent,1
+40,Male,36.1,No,West,1,Yes,0,36712.19,Call Center,0
+27,Female,26.7,No,East,0,No,0,43015.89,Online,0
+22,Male,37.4,No,North,1,No,1,15452.11,Call Center,0
+53,Female,37.2,No,East,3,No,0,23767.82,Call Center,0
+51,Female,35.8,Yes,East,3,Yes,1,37109.87,Online,0
+69,Female,35.5,No,West,3,Yes,0,57772.66,Agent,0
+48,Male,25.1,No,North,0,Yes,0,32262.41,Agent,1
+27,Male,20.2,No,South,4,Yes,0,34096.74,Online,0
+36,Male,27.2,Yes,East,1,Yes,1,47161.32,Online,0
+49,Female,22.2,Yes,North,3,No,0,42170.67,Agent,1
+18,Male,33.4,No,East,1,No,1,28451.68,Online,0
+22,Female,25.9,No,East,0,No,0,33486.74,Online,0
+62,Male,39.5,No,East,4,Yes,0,24796.49,Online,0
+21,Female,32.3,Yes,East,0,Yes,0,58470.97,Agent,1
+33,Male,36.2,No,West,1,Yes,0,20878.55,Call Center,0
+41,Male,21.3,No,North,4,No,0,31732.66,Call Center,1
+33,Male,37.0,Yes,North,4,Yes,1,16162.75,Online,1
+19,Female,38.3,Yes,North,0,Yes,0,24980.08,Agent,0
+66,Female,29.0,No,East,3,No,0,50121.2,Online,0
+45,Male,31.5,No,West,1,Yes,0,24052.89,Agent,0
+49,Male,34.9,No,East,2,No,0,18602.85,Online,0
+44,Female,22.3,No,East,2,Yes,0,36350.39,Agent,1
+37,Female,29.3,No,North,0,Yes,0,15448.62,Agent,1
+41,Female,27.1,Yes,East,1,No,0,18814.48,Call Center,0
+29,Male,21.6,No,South,1,No,0,51343.16,Online,0
+67,Female,26.4,No,East,0,No,0,49716.3,Call Center,0
+52,Male,20.0,No,South,1,No,0,56181.25,Call Center,0
+50,Female,19.1,No,East,3,No,0,53453.19,Agent,0
+50,Male,21.4,No,West,0,No,0,45742.9,Online,0
+68,Female,39.2,No,West,3,Yes,0,17354.98,Agent,0
+60,Female,30.3,No,North,1,Yes,1,50228.19,Agent,0
+54,Female,39.3,No,East,0,No,1,53047.99,Agent,0
+29,Female,27.8,No,South,1,Yes,1,50958.7,Online,1
+20,Female,25.2,Yes,South,0,No,0,37881.56,Online,1
+18,Male,29.4,Yes,East,1,Yes,1,25480.58,Agent,0
+50,Female,27.9,No,South,3,No,1,53039.85,Online,0
+57,Female,20.8,No,West,3,Yes,1,47722.33,Agent,0
+27,Female,32.3,Yes,South,1,Yes,0,59134.25,Online,0
+60,Male,23.1,No,North,0,Yes,0,22006.17,Online,0
+61,Female,31.8,Yes,West,2,Yes,1,25154.91,Call Center,0
+46,Male,32.5,No,West,3,Yes,0,24530.92,Agent,0
+30,Female,21.8,No,West,3,No,0,50664.29,Call Center,0
+29,Female,19.8,No,East,2,No,0,23410.83,Call Center,0
+48,Male,35.3,No,East,1,No,0,17999.69,Agent,0
+63,Female,28.4,No,West,0,Yes,0,59935.24,Agent,0
+19,Male,19.8,Yes,East,1,No,0,16116.77,Online,1
+68,Male,39.9,No,South,4,Yes,0,52585.98,Agent,0
+67,Female,19.7,No,East,3,Yes,0,31441.51,Call Center,0
+52,Male,33.4,No,East,4,Yes,0,52872.7,Call Center,0
+40,Female,39.6,No,West,3,No,0,39957.92,Agent,1
+34,Female,23.6,Yes,North,3,Yes,0,55573.41,Call Center,0
+43,Male,21.6,No,North,4,No,0,56678.68,Online,0
+25,Male,21.1,No,North,4,No,1,15409.42,Call Center,1
+46,Male,25.0,No,South,1,Yes,0,18393.55,Online,0
+43,Male,20.7,No,East,4,Yes,0,26266.14,Call Center,0
+27,Female,33.4,No,North,1,No,0,45119.19,Online,0
+43,Female,19.8,No,West,1,No,1,54972.25,Online,0
+51,Male,29.5,Yes,North,1,No,0,35697.39,Agent,0
+68,Female,39.9,No,North,3,No,0,42313.79,Online,0
+58,Female,36.0,No,East,3,No,0,23482.49,Agent,0
+24,Female,31.7,No,East,4,No,0,51223.51,Call Center,0
+21,Female,25.1,No,East,3,Yes,1,58529.77,Call Center,0
+67,Male,31.9,No,South,4,No,1,27086.95,Call Center,0
+62,Male,29.8,Yes,South,3,No,0,37267.17,Online,0
+28,Female,27.7,No,North,0,No,0,18875.22,Call Center,1
+46,Male,21.3,No,East,0,No,0,40161.15,Call Center,0
+53,Male,37.6,No,North,4,Yes,0,37625.25,Agent,0
+42,Male,28.2,No,West,3,Yes,0,21499.64,Agent,0
+38,Female,22.7,No,West,3,No,0,34892.98,Call Center,0
+53,Female,26.4,No,East,1,No,0,30034.71,Call Center,0
+27,Female,27.4,Yes,East,2,No,0,38482.39,Online,0
+54,Male,36.3,No,West,4,Yes,1,41354.45,Online,0
+26,Female,34.3,No,East,2,Yes,0,15382.3,Call Center,0
+41,Female,35.0,Yes,South,2,Yes,1,49245.27,Agent,1
+52,Male,18.7,Yes,South,4,Yes,1,47085.64,Call Center,0
+66,Female,27.4,No,East,3,Yes,0,31482.89,Online,0
+52,Female,28.8,No,West,4,Yes,1,17382.12,Agent,0
+65,Male,18.9,No,North,2,No,0,48971.96,Agent,0
+53,Male,24.1,Yes,East,3,Yes,0,57982.88,Online,0
+35,Male,34.8,No,East,0,Yes,0,25806.82,Call Center,0
+66,Female,21.4,No,North,4,No,1,29558.61,Call Center,0
+56,Female,30.0,No,East,4,Yes,0,23271.58,Call Center,0
+49,Female,23.1,No,North,3,No,0,40962.13,Online,1
+41,Male,18.8,No,West,0,Yes,1,21967.86,Agent,0
+40,Male,23.7,No,South,0,No,0,31028.73,Online,0
+49,Female,39.5,No,West,3,No,0,46365.59,Call Center,1
+54,Female,35.7,No,South,1,No,1,40205.22,Online,0
+29,Male,39.1,No,North,4,No,1,32390.82,Agent,0
+66,Male,29.0,No,South,4,No,1,33911.23,Online,0
+30,Male,20.9,No,West,2,Yes,1,40294.99,Call Center,0
+40,Male,30.3,Yes,South,3,Yes,0,15263.91,Agent,0
+42,Female,28.3,Yes,North,2,No,1,18532.94,Online,0
+52,Male,36.7,Yes,South,2,No,0,54656.61,Online,0
+58,Female,20.6,No,East,0,No,0,18504.55,Agent,0
+47,Female,29.0,No,West,4,Yes,0,46806.16,Agent,1
+34,Female,21.7,Yes,East,2,No,0,56401.72,Call Center,0
+66,Male,25.5,No,North,0,No,1,27180.76,Agent,0
+37,Male,34.4,No,South,3,No,1,31672.11,Call Center,0
+65,Male,28.7,No,East,2,No,0,40601.46,Online,0
+42,Male,26.6,No,East,4,Yes,0,54676.9,Call Center,1
+39,Female,27.0,No,South,2,No,0,57385.75,Online,0
+30,Male,28.4,Yes,South,3,No,1,48280.35,Agent,0
+36,Male,35.4,No,West,2,Yes,1,18897.89,Online,0
+66,Female,37.7,No,East,4,No,0,45111.94,Agent,0
+53,Male,39.0,No,East,0,No,0,33463.67,Online,0
+29,Female,35.4,No,North,4,Yes,0,36181.54,Online,0
+58,Female,25.3,No,West,0,Yes,0,17211.68,Online,0
+36,Female,33.3,Yes,North,1,Yes,1,23597.8,Online,0
+29,Female,27.9,Yes,East,4,No,0,50573.11,Call Center,0
+26,Female,24.0,No,North,4,No,0,35428.15,Online,0
+24,Female,36.6,No,East,3,Yes,0,28574.8,Call Center,1
+45,Female,19.3,Yes,East,2,Yes,0,32280.86,Agent,1
+31,Female,37.9,No,North,0,Yes,1,53447.98,Agent,1
+48,Male,28.4,No,North,0,No,0,48704.96,Call Center,1
+69,Male,32.2,No,South,3,No,0,27254.19,Agent,0
+36,Male,32.7,No,South,3,Yes,0,20287.58,Agent,0
+64,Male,37.7,No,South,2,No,0,26339.92,Online,0
+33,Female,32.2,No,East,2,Yes,0,56434.04,Online,1
+22,Male,31.7,Yes,North,4,No,1,41171.5,Online,0
+52,Female,19.9,No,West,1,No,0,39006.61,Call Center,1
+29,Male,29.6,No,East,2,No,0,41837.71,Call Center,0
+42,Male,21.7,No,West,3,No,0,31471.27,Agent,1
+69,Male,34.4,No,North,2,Yes,0,51319.82,Online,0
+38,Female,29.5,No,East,0,No,0,38547.88,Call Center,0
+53,Male,33.1,No,West,1,No,0,20253.66,Call Center,1
+40,Female,19.4,No,West,4,Yes,1,20807.93,Online,0
+33,Female,20.3,No,South,0,No,1,39158.66,Call Center,1
+56,Male,33.9,Yes,South,0,Yes,0,57145.66,Online,0
+62,Male,20.0,No,South,1,Yes,0,28875.85,Agent,0
+59,Male,20.0,No,East,4,No,0,54129.35,Agent,0
+56,Female,18.8,Yes,North,3,No,0,49384.3,Agent,0
+31,Male,39.1,No,North,4,Yes,1,26151.56,Online,0
+48,Female,34.4,No,South,2,Yes,0,16635.33,Call Center,0
+22,Female,26.1,No,South,0,Yes,0,19583.13,Agent,0
+52,Male,24.9,No,South,2,No,1,47782.23,Agent,0
+40,Male,26.0,No,West,3,Yes,1,23985.14,Agent,0
+46,Female,35.2,No,South,2,Yes,0,31707.19,Call Center,0
+60,Female,32.7,No,West,4,Yes,0,37576.46,Call Center,0
+28,Female,22.5,Yes,North,2,No,0,47646.07,Online,0
+35,Male,22.2,No,East,3,Yes,0,20095.41,Agent,0
+64,Female,20.6,No,East,3,No,1,33286.49,Call Center,0
+29,Male,32.7,No,East,3,No,1,36828.28,Online,0
+26,Female,34.9,No,East,4,Yes,1,39337.22,Agent,0
+27,Female,24.2,No,West,3,No,0,51826.23,Call Center,1
+61,Male,19.0,Yes,West,0,Yes,1,22725.52,Call Center,1
+34,Female,20.3,No,South,3,No,0,51352.42,Online,0
+55,Male,39.3,No,West,2,No,0,46179.53,Agent,0
+24,Male,24.9,No,South,2,Yes,0,40014.19,Agent,1
+63,Female,35.0,Yes,South,2,Yes,0,46478.75,Call Center,0
+30,Male,31.9,Yes,East,4,Yes,1,33540.8,Agent,0
+57,Male,26.7,No,West,2,No,0,21227.89,Online,0
+59,Female,22.9,No,West,4,No,0,44959.44,Call Center,0
+26,Male,21.1,No,South,4,Yes,0,38610.25,Call Center,1
+67,Male,31.7,No,South,3,Yes,0,43771.87,Online,0
+44,Male,35.2,No,North,0,No,0,30209.95,Call Center,0
+19,Female,32.3,No,North,3,No,0,55809.0,Agent,0
+22,Male,29.9,No,South,3,No,1,41431.64,Agent,1
+46,Female,19.4,No,North,4,Yes,0,18843.11,Call Center,1
+54,Female,39.3,Yes,North,4,No,0,35241.18,Online,0
+55,Male,35.7,No,South,2,Yes,0,49036.02,Online,0
+36,Male,24.8,Yes,South,2,No,1,50736.06,Agent,0
+25,Male,39.6,No,West,3,No,0,37256.87,Online,1
+65,Female,31.4,No,South,1,Yes,0,55263.64,Call Center,1
+62,Male,31.0,Yes,South,1,Yes,0,27045.08,Call Center,0
+18,Male,34.6,No,East,2,Yes,0,33476.94,Agent,0
+39,Male,36.0,No,West,1,No,0,55436.86,Agent,0
+69,Male,32.6,No,West,2,No,1,55331.55,Agent,0
+34,Male,21.3,No,West,4,No,0,45857.07,Online,0
+24,Female,25.8,Yes,East,3,Yes,0,53654.12,Call Center,0
+42,Female,38.5,No,South,0,No,1,18994.8,Call Center,0
+62,Male,23.3,No,West,3,Yes,0,53924.77,Call Center,0
+21,Male,26.5,No,West,2,Yes,0,29427.9,Agent,0
+53,Male,27.8,No,North,2,Yes,0,23024.92,Call Center,0
+23,Male,27.9,No,West,3,No,0,25771.64,Online,0
+48,Female,31.7,No,South,2,No,0,33808.58,Online,0
+36,Male,38.8,No,South,1,Yes,0,26303.64,Call Center,0
+61,Female,23.7,No,North,1,No,1,29425.54,Agent,0
+56,Female,21.1,No,West,2,Yes,1,21074.03,Call Center,0
+44,Male,22.7,No,West,2,Yes,0,28327.95,Online,1
+27,Female,37.6,No,West,1,No,0,40752.77,Online,0
+43,Female,32.4,No,East,2,Yes,0,34883.42,Online,1
+36,Female,24.6,No,West,2,Yes,1,30602.34,Call Center,0
+56,Female,36.0,No,South,3,No,0,48590.35,Online,0
+20,Male,37.0,Yes,South,0,Yes,0,55207.95,Agent,0
+62,Male,36.7,No,East,1,Yes,1,49055.52,Call Center,0
+30,Female,38.3,Yes,East,3,Yes,1,29940.03,Call Center,0
+67,Male,23.9,No,West,0,Yes,1,48499.9,Online,0
+45,Male,34.7,No,North,2,Yes,0,21839.11,Online,1
+37,Male,28.4,Yes,East,2,Yes,1,20864.31,Agent,0
+45,Male,36.6,Yes,East,3,Yes,1,30553.22,Call Center,1
+25,Male,34.2,Yes,West,2,No,0,51346.61,Online,1
+58,Female,35.2,No,West,4,No,0,26085.67,Agent,0
+56,Male,32.6,No,East,3,Yes,0,17846.4,Online,0
+18,Male,22.3,No,North,0,Yes,1,20926.93,Call Center,0
+20,Male,30.2,No,East,3,No,0,53643.52,Online,1
+30,Male,39.7,No,West,1,No,0,43520.25,Call Center,0
+45,Female,38.7,No,West,3,No,0,26394.05,Online,1
+66,Female,19.4,No,East,2,No,1,39988.31,Call Center,0
+42,Female,22.0,No,North,2,No,0,38741.08,Agent,1
+50,Female,21.3,No,East,4,Yes,0,44494.62,Call Center,0
+55,Male,34.1,No,East,4,No,0,25493.44,Agent,0
+23,Female,36.1,No,West,4,No,1,53898.13,Call Center,1
+61,Male,23.1,No,North,0,No,0,28921.59,Agent,1
+62,Male,29.4,No,South,4,Yes,0,46235.92,Online,0
+49,Male,36.6,No,North,0,Yes,1,15725.61,Call Center,0
+62,Male,34.3,No,East,4,Yes,0,31769.57,Online,0
+64,Male,30.2,No,East,0,Yes,1,30826.94,Agent,1
+38,Female,31.2,No,East,3,Yes,0,39456.8,Call Center,1
+33,Female,29.4,No,North,3,Yes,0,18273.13,Call Center,1
+38,Female,24.9,No,West,2,No,0,50555.91,Online,0
+28,Female,30.6,Yes,East,0,Yes,0,24800.14,Call Center,0
+54,Male,33.3,No,East,1,Yes,0,45466.7,Call Center,0
+53,Female,37.3,No,North,2,No,0,51144.55,Online,1
+52,Male,32.2,No,South,3,Yes,1,40284.46,Call Center,0
+36,Female,34.9,Yes,South,0,No,0,48339.74,Online,1
+37,Male,21.9,Yes,West,4,No,0,44783.71,Online,0
+35,Male,28.4,No,West,1,Yes,0,30998.84,Online,0
+64,Female,18.7,No,East,3,No,1,51398.63,Online,0
+58,Male,23.8,No,North,2,No,0,28261.56,Online,0
+66,Male,34.1,No,East,0,No,0,40704.58,Agent,0
+31,Female,39.8,No,West,1,No,0,48542.9,Agent,0
+32,Male,20.6,No,North,0,Yes,0,32053.02,Online,0
+48,Female,27.1,No,North,4,No,0,28624.54,Agent,1
+18,Female,35.7,No,West,2,Yes,1,35670.57,Agent,0
+20,Female,22.9,No,South,0,No,0,51808.36,Call Center,0
+33,Male,30.4,Yes,South,3,No,1,56846.48,Online,0
+40,Male,34.3,No,North,2,No,0,39528.75,Agent,0
+28,Male,31.7,No,East,3,Yes,0,44765.98,Call Center,1
+29,Female,22.5,No,South,0,Yes,1,55647.31,Call Center,0
+27,Male,26.1,No,East,2,Yes,0,19434.61,Online,1
+49,Female,35.4,Yes,South,3,No,1,25443.54,Online,0
+33,Female,30.4,Yes,South,4,No,0,46900.5,Call Center,0
+25,Male,18.6,No,East,4,No,1,52068.5,Online,0
+55,Female,34.9,Yes,West,0,No,0,53566.31,Online,0
+29,Male,19.3,No,South,2,Yes,0,33679.82,Call Center,0
+41,Male,34.5,No,South,1,No,0,19020.3,Call Center,0
+45,Male,22.9,Yes,East,2,Yes,0,34700.17,Online,0
+25,Male,39.1,No,West,4,No,0,25383.06,Agent,0
+45,Male,26.4,No,South,3,Yes,0,28103.84,Online,0
+53,Female,25.5,No,South,1,Yes,0,49752.04,Agent,0
+43,Female,21.7,No,West,0,No,0,18398.72,Call Center,0
+25,Female,25.1,No,South,1,No,1,52241.15,Agent,0
+67,Male,37.3,Yes,West,0,Yes,0,34245.11,Call Center,0
+45,Male,39.9,No,West,1,No,0,41822.88,Online,0
+45,Male,26.4,No,East,0,No,0,19034.35,Online,0
+54,Female,28.1,No,North,0,Yes,0,30181.16,Call Center,1
+58,Male,34.0,No,West,1,Yes,0,19036.54,Call Center,0
+53,Female,37.6,No,East,1,Yes,0,58269.47,Call Center,0
+44,Female,31.3,No,North,0,Yes,1,51326.77,Online,1
+34,Male,26.9,No,South,4,No,1,35683.47,Online,0
+26,Male,27.4,No,North,1,Yes,0,25062.11,Agent,0
+50,Female,33.5,No,West,2,Yes,0,57005.48,Call Center,0
+37,Male,18.6,No,West,3,Yes,0,30506.85,Agent,0
+30,Female,31.8,No,West,0,No,0,22244.3,Online,0
+45,Male,26.1,Yes,West,0,Yes,0,40342.4,Agent,1
+65,Male,35.6,No,West,3,No,0,57469.84,Agent,0
+46,Female,20.5,No,East,4,Yes,0,15172.36,Online,1
+30,Male,31.1,No,West,3,Yes,0,25715.62,Online,0
+63,Female,28.8,No,East,1,No,0,57230.14,Call Center,0
+52,Male,32.3,No,South,3,Yes,1,22698.87,Agent,0
+23,Female,19.9,No,West,0,Yes,0,20095.96,Online,1
+35,Female,31.0,No,West,3,No,1,40658.42,Online,1
+68,Male,30.6,No,North,2,Yes,1,53782.97,Agent,0
+22,Female,30.6,Yes,South,1,Yes,0,36469.94,Online,1
+64,Male,31.5,No,West,3,Yes,0,59755.39,Call Center,0
+42,Male,33.0,No,West,0,Yes,0,45562.73,Call Center,0
+19,Male,35.8,Yes,South,1,No,1,18333.37,Agent,0
+27,Female,24.3,No,East,0,Yes,1,59677.45,Call Center,0
+47,Female,36.2,No,West,4,No,0,33355.24,Online,0
+67,Male,29.2,No,North,2,Yes,0,27933.11,Online,0
+62,Male,20.2,Yes,West,4,No,1,40104.56,Online,0
+22,Female,19.8,No,North,2,Yes,0,28693.84,Online,0
+50,Male,25.7,No,North,3,No,1,18890.59,Agent,0
+18,Male,35.4,No,West,1,Yes,1,15064.28,Call Center,1
+35,Female,33.7,No,West,3,No,0,35231.25,Call Center,0
+49,Male,35.5,No,North,2,No,0,52658.85,Online,0
+64,Female,29.6,Yes,South,2,Yes,0,40754.18,Agent,0
+66,Male,28.0,No,South,2,No,0,59964.33,Online,0
+28,Female,21.7,No,West,0,Yes,0,27908.1,Online,1
+38,Male,25.6,No,East,1,Yes,1,27620.48,Agent,0
+43,Male,27.8,No,South,3,Yes,1,22188.73,Agent,1
+42,Female,20.4,No,West,3,Yes,1,22382.86,Online,0
+39,Male,23.2,No,South,4,Yes,0,27833.4,Call Center,0
+44,Female,31.4,No,East,2,No,1,50677.8,Online,0
+66,Male,34.3,No,West,2,Yes,1,55759.06,Call Center,0
+30,Female,40.0,No,East,2,Yes,0,58878.92,Call Center,0
+50,Female,38.6,No,West,3,Yes,0,25453.03,Agent,0
+51,Female,32.3,No,East,4,Yes,0,54658.39,Agent,0
+58,Female,27.6,No,South,0,Yes,1,29771.48,Online,0
+52,Male,32.2,No,South,1,Yes,0,20077.82,Call Center,1
+18,Male,35.4,No,East,0,No,1,54151.12,Call Center,0
+38,Female,21.0,Yes,East,3,No,0,43624.75,Online,0
+65,Female,27.3,No,East,2,Yes,1,22412.89,Online,0
+23,Female,36.6,No,West,1,No,0,34342.41,Online,0
+45,Male,26.8,No,South,3,Yes,0,27926.6,Agent,0
+34,Male,30.8,No,West,3,Yes,0,48155.76,Online,1
+22,Male,31.1,No,South,3,Yes,0,35403.73,Online,1
+48,Male,22.5,No,North,1,Yes,1,59517.6,Call Center,0
+22,Female,26.3,No,West,1,Yes,0,17463.52,Online,0
+55,Female,25.7,No,South,4,No,0,30975.69,Call Center,0
+20,Female,19.1,No,South,4,No,0,36685.51,Call Center,0
+40,Male,19.0,No,West,0,No,0,37641.01,Agent,0
+54,Male,36.4,Yes,West,1,No,0,29217.11,Online,0
+54,Male,24.4,No,South,1,Yes,0,47815.81,Online,0
+27,Female,29.6,No,West,1,No,1,54363.62,Call Center,0
+27,Female,24.9,No,East,4,Yes,0,57242.37,Agent,0
+36,Male,38.7,Yes,West,3,No,1,51229.2,Agent,0
+34,Female,24.1,No,West,2,No,1,53276.11,Online,0
+38,Male,27.7,Yes,West,4,No,0,39774.54,Call Center,0
+31,Male,37.3,No,South,1,No,0,52164.97,Online,1
+26,Female,36.6,No,East,4,Yes,0,28657.68,Online,0
+63,Male,22.5,No,North,0,No,1,32931.54,Online,1
+18,Female,35.8,No,North,1,No,1,29261.09,Online,0
+68,Male,28.4,No,East,0,Yes,0,36032.43,Call Center,0
+62,Female,28.9,No,East,1,Yes,1,27851.08,Agent,0
+30,Female,21.4,No,East,4,No,0,58272.51,Online,0
+21,Female,20.2,No,South,3,Yes,1,29078.01,Online,1
+18,Male,34.2,Yes,North,2,Yes,1,19412.0,Online,0
+66,Male,29.2,No,East,0,Yes,0,38706.77,Online,0
+57,Female,27.9,No,South,4,No,0,17569.46,Agent,0
+49,Female,34.2,No,North,3,Yes,0,19974.44,Agent,1
+51,Male,35.0,Yes,West,4,No,0,24872.52,Agent,0
+45,Male,21.9,No,South,0,No,1,35895.76,Agent,1
+48,Male,31.6,No,North,2,No,0,34496.29,Online,1
+25,Female,21.4,No,South,4,No,0,50986.13,Call Center,0
+56,Male,34.7,Yes,North,1,Yes,0,48276.36,Agent,1
+43,Male,32.6,No,North,3,No,1,34184.32,Agent,1
+51,Female,39.1,Yes,West,4,Yes,0,30016.69,Online,0
+20,Male,20.0,No,South,3,No,0,29241.1,Online,0
+67,Male,19.7,No,East,1,Yes,0,49829.78,Online,0
+29,Male,24.6,No,West,2,No,1,17343.26,Online,0
+18,Female,24.1,No,West,2,Yes,1,15576.97,Call Center,0
+61,Female,23.8,No,North,1,No,0,50799.5,Call Center,0
+22,Female,38.0,No,East,3,No,0,36471.59,Agent,0
+47,Female,23.9,No,South,4,Yes,0,20889.65,Call Center,0
+47,Female,24.3,No,East,1,No,0,25600.47,Agent,0
+34,Female,34.8,No,East,0,No,0,56962.68,Agent,1
+65,Female,28.2,No,East,3,No,1,53677.63,Call Center,0
+64,Male,35.2,Yes,East,2,Yes,0,46940.33,Agent,0
+40,Male,19.9,No,East,1,No,1,36700.14,Online,0
+32,Female,29.0,Yes,North,2,No,0,38414.56,Agent,0
+54,Male,19.2,No,North,3,Yes,1,58886.0,Online,1
+38,Male,19.8,No,West,2,Yes,1,58459.67,Call Center,0
+31,Female,38.0,No,North,1,Yes,0,24687.11,Call Center,0
+19,Male,21.5,No,West,3,Yes,0,51499.71,Agent,1
+28,Male,29.9,No,West,0,Yes,0,23875.92,Online,1
+68,Male,27.3,No,South,1,No,0,24609.19,Agent,0
+56,Male,26.0,No,East,4,No,0,45424.19,Call Center,1
+55,Male,37.8,No,North,1,No,0,33225.05,Agent,0
+51,Female,19.0,Yes,South,3,Yes,1,56919.5,Agent,0
+55,Female,32.8,No,North,1,No,0,19005.44,Online,0
+67,Female,39.2,No,West,0,Yes,1,38018.65,Call Center,0
+51,Male,30.5,No,North,0,Yes,0,56333.47,Agent,1
+35,Female,38.6,No,East,4,No,1,55685.11,Online,0
+47,Male,19.6,No,West,2,Yes,0,22043.81,Agent,0
+32,Male,27.5,Yes,West,3,Yes,1,31498.7,Online,1
+44,Male,24.1,No,South,3,No,0,42860.46,Online,0
+68,Male,34.2,No,East,2,Yes,0,22172.77,Agent,1
+51,Female,39.6,No,West,0,Yes,0,58561.0,Call Center,1
+69,Female,24.0,No,East,0,No,0,56163.72,Call Center,0
+55,Male,32.6,No,North,1,Yes,0,22512.76,Online,0
+50,Female,22.8,Yes,East,4,Yes,0,20452.0,Call Center,0
+41,Male,30.7,No,West,4,No,0,18843.38,Online,0
+32,Female,28.5,No,South,4,No,1,55924.96,Call Center,0
+47,Female,39.4,Yes,West,1,No,0,23713.07,Agent,0
+59,Male,31.6,No,East,4,No,0,33732.82,Call Center,1
+68,Female,26.0,No,East,2,Yes,1,35198.31,Online,0
+34,Male,21.0,No,West,1,Yes,0,41955.5,Online,0
+22,Female,21.8,No,East,2,No,0,18228.09,Call Center,0
+46,Male,23.3,Yes,North,1,Yes,0,25204.14,Agent,0
+21,Male,23.9,No,West,4,Yes,1,56917.07,Online,1
+27,Female,36.8,Yes,South,2,No,1,55878.45,Online,0
+34,Female,30.6,No,West,2,No,1,50158.08,Online,0
+27,Male,29.8,Yes,North,2,Yes,0,15873.06,Online,0
+34,Female,21.0,No,North,1,No,1,29715.3,Online,0
+37,Female,37.0,No,North,3,No,0,43258.14,Agent,0
+41,Male,34.0,No,North,4,No,0,27383.56,Call Center,0
+22,Male,20.0,No,North,2,Yes,0,55931.4,Agent,0
+51,Female,33.7,No,South,3,No,0,43525.03,Agent,1
+23,Male,30.2,No,East,4,Yes,0,18235.8,Online,1
+19,Male,20.3,No,North,4,Yes,0,55905.25,Agent,0
+30,Male,28.4,No,North,2,Yes,0,58099.5,Online,1
+60,Female,28.9,No,West,2,No,0,18497.06,Agent,0
+60,Female,22.1,No,South,1,No,1,38956.21,Online,0
+65,Male,38.8,No,South,3,No,0,28651.39,Online,0
+28,Female,36.8,No,East,3,No,1,32677.76,Agent,0
+68,Male,32.9,No,South,2,No,0,23084.3,Agent,0
+64,Female,28.4,No,West,4,Yes,1,41013.24,Call Center,0
+40,Male,27.4,Yes,West,2,Yes,0,58109.07,Call Center,0
+33,Male,32.5,Yes,East,4,Yes,0,37638.27,Call Center,1
+48,Female,30.2,No,West,4,No,0,18731.16,Agent,0
+28,Male,19.8,No,North,2,Yes,0,42900.06,Agent,0
+33,Female,29.5,Yes,North,0,Yes,1,30310.03,Online,1
+25,Female,35.8,No,West,3,No,0,53516.63,Call Center,0
+21,Male,28.4,No,East,4,No,0,34560.52,Online,0
+57,Male,19.6,No,South,4,Yes,1,23677.78,Online,1
+21,Female,35.4,No,East,0,Yes,0,23599.75,Online,0
+42,Male,22.8,Yes,South,1,No,0,49594.39,Online,0
+20,Male,24.1,No,West,0,No,0,26951.44,Call Center,0
+49,Male,22.0,No,West,0,No,0,49525.5,Online,1
+20,Male,25.6,No,North,4,No,0,24264.93,Agent,0
+44,Male,34.8,No,South,3,Yes,0,29475.89,Agent,1
+46,Female,29.7,No,East,0,Yes,1,35946.91,Agent,0
+49,Female,22.9,No,West,1,No,0,57443.81,Call Center,0
+67,Male,37.4,No,East,2,Yes,0,56927.91,Online,1
+68,Male,37.4,No,North,0,Yes,0,24309.23,Call Center,0
+36,Male,37.2,No,South,0,No,1,31119.86,Online,0
+38,Female,23.6,No,South,1,Yes,1,21722.97,Call Center,0
+22,Male,28.2,Yes,West,3,Yes,0,37949.33,Call Center,1
+35,Female,39.7,Yes,South,0,Yes,1,35726.21,Online,0
+45,Female,35.1,No,West,0,No,0,55534.21,Call Center,0
+59,Female,19.1,No,North,3,No,0,56850.24,Online,0
+39,Male,19.9,No,South,1,Yes,0,32260.53,Agent,1
+38,Female,28.5,No,West,0,No,0,37128.21,Agent,0
+23,Male,38.0,No,East,3,No,0,55330.63,Agent,0
+18,Female,30.1,No,West,0,No,1,51301.85,Call Center,0
+22,Male,29.2,No,South,2,Yes,0,15164.53,Agent,0
+58,Female,20.8,No,North,4,Yes,1,29402.68,Online,0
+29,Male,32.6,Yes,South,2,No,0,33979.84,Agent,0
+43,Female,36.2,No,South,0,Yes,0,25337.23,Agent,0
+63,Male,26.7,No,West,1,Yes,0,23980.72,Call Center,1
+51,Male,35.2,No,East,4,Yes,0,16700.3,Online,1
+66,Male,39.2,No,South,2,Yes,0,43951.64,Call Center,0
+31,Male,22.9,No,East,3,Yes,0,26812.96,Call Center,1
+43,Female,29.8,No,West,1,No,0,17355.62,Online,0
+62,Female,24.7,Yes,East,2,Yes,0,25394.07,Call Center,1
+44,Male,35.5,No,West,3,Yes,1,51086.13,Online,0
+26,Female,30.9,No,North,0,Yes,0,53317.01,Agent,0
+43,Male,32.1,Yes,East,3,No,0,36737.98,Online,1
+64,Male,35.7,Yes,East,2,No,0,33723.18,Online,1
+39,Female,27.0,No,North,2,No,1,59003.42,Online,0
+64,Male,38.2,Yes,East,0,Yes,1,24025.41,Call Center,0
+47,Male,30.0,No,North,3,No,0,24691.17,Online,0
+60,Female,21.9,No,South,3,No,0,28134.02,Online,0
+65,Male,33.5,No,West,0,No,0,22774.08,Online,0
+34,Male,35.6,No,North,3,No,1,32071.45,Agent,0
+43,Male,25.3,No,East,0,Yes,0,55987.54,Online,1
+53,Male,36.9,No,North,1,No,0,42690.65,Call Center,0
+18,Female,38.0,Yes,East,2,No,0,33537.59,Online,0
+25,Female,24.5,No,South,1,Yes,0,57048.49,Online,0
+66,Female,39.6,No,North,4,Yes,1,17180.89,Agent,0
+52,Male,21.5,No,South,4,No,0,24462.43,Online,0
+69,Male,22.8,No,West,4,Yes,0,40464.99,Call Center,0
+32,Female,22.5,No,East,0,No,0,42699.87,Online,1
+64,Male,37.7,Yes,East,3,Yes,1,16780.09,Call Center,1
+39,Male,32.6,Yes,South,1,Yes,1,33136.74,Agent,0
+31,Male,21.8,No,West,1,No,0,44211.93,Online,0
+43,Male,28.0,No,North,1,Yes,0,46413.17,Agent,0
+45,Female,31.7,Yes,North,1,No,1,43716.3,Online,1
+40,Female,20.3,No,East,4,Yes,0,29425.35,Call Center,1
+31,Female,37.5,No,South,1,No,0,19208.41,Agent,0
+41,Male,35.8,No,South,3,Yes,0,34220.06,Online,0
+19,Female,29.4,No,North,4,Yes,1,20793.95,Call Center,1
+62,Female,39.3,Yes,West,1,Yes,0,57643.06,Agent,0
+43,Male,27.5,No,West,0,Yes,1,36382.69,Online,0
+31,Male,39.7,No,North,2,Yes,0,29276.66,Agent,1
+68,Female,32.9,No,North,2,No,0,49483.68,Online,0
+24,Female,32.1,No,South,2,Yes,0,37407.69,Call Center,0
+20,Female,22.1,Yes,West,4,No,0,28951.53,Call Center,0
+64,Female,37.5,No,North,1,No,0,51538.55,Agent,0
+40,Male,27.7,No,North,4,No,0,54021.85,Agent,0
+63,Female,22.0,No,East,3,Yes,0,45285.37,Online,0
+60,Female,18.8,No,North,0,No,1,17113.4,Call Center,0
+64,Male,30.5,No,North,0,Yes,1,40484.53,Online,0
+62,Female,29.8,No,West,2,No,0,49348.27,Call Center,1
+35,Male,34.0,No,South,2,No,0,21142.64,Agent,0
+55,Male,37.6,No,West,2,No,0,25290.18,Online,0
